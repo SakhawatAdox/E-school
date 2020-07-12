@@ -2,9 +2,7 @@
 img{
     width: 150px;
 }
-#sing-in{
-    
-}
+
 button{
     background-color: rgb(11, 199, 127);
     color: #fff;
@@ -13,6 +11,9 @@ button{
     padding: 9px 25px;
     cursor: wait;
     padding: 9px 35px;
+}
+button:hover{
+    box-shadow:10px 10px 25px rgb(4, 102, 4);
 }
 .illustration{
     width: 500px;
@@ -77,4 +78,25 @@ h5{
 #man-im{
     margin-bottom: 30px;
     margin-left: 350px;
+}
+section{
+    height: 400px;
+    background-color: rgb(31, 29, 34);
+}
+#last-row{
+    margin-top: 80px;
+    padding-top: 100px;
+}
+.last-para{
+    color: white;
+    font-weight: 400;
+}
+h4{
+    color: white;
+}
+footer{
+    text-align: center;
+}
+#text-side-man{
+    font-weight: 400;
 }
