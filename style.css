@@ -1,0 +1,80 @@
+
+img{
+    width: 150px;
+}
+#sing-in{
+    
+}
+button{
+    background-color: rgb(11, 199, 127);
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 25px;
+    cursor: wait;
+    padding: 9px 35px;
+}
+.illustration{
+    width: 500px;
+}
+#first-p{
+    color: orange;
+}
+span{
+    color: rgb(11, 199, 127);
+}
+#Learn-fun, #top-bannern{
+    background-color: rgba(78, 138, 115, 0.048)
+    
+}
+.container{
+    margin-bottom: 100px;
+}
+.card-img-top{
+    width: 80px;
+    margin-left: 70px;
+    margin-top: 35px;
+    
+
+}
+#img-shadow{
+    box-shadow: 10px 10px 30px lightgrey;
+}
+#img-shadow:hover{
+    box-shadow:10px 10px 30px lightgreen;
+}
+.card-body{
+    margin-left: 30px;
+    
+}
+.card-text{
+    margin-left:5px;
+}
+.phyco-photo{
+        width: 320px;
+        margin-left: 13px;
+        margin-top: 20px;
+}
+.card{
+    border-radius: 20px;
+}
+h5{
+    font-weight: 700;
+    font-size: x-large;
+}
+.card-body-2{
+    margin-left: 10px;
+}
+.footer-img{
+    width: 20px;
+}
+.card-text-foot{
+    margin: 10px 15px;
+}
+.manimg{
+    margin-left: 20px;
+}
+#man-im{
+    margin-bottom: 30px;
+    margin-left: 350px;
+}
